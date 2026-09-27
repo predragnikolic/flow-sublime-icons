@@ -1,0 +1,5 @@
+assets/ export-ignore
+icon_themes/ export-ignore
+icons/*.svg export-ignore
+icons/**/*.svg export-ignore
+src/ export-ignore
