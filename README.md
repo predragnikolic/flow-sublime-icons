@@ -55,6 +55,7 @@ Open the command palette and select `UI: Customize Theme`:
 
 ## 💝 Thanks to
 
+- [thang-nm/Flow-Icons](https://github.com/thang-nm/Flow-Icons)
 - [BenjaminHalko/flow-icons-zed](https://github.com/BenjaminHalko/flow-icons-zed)
 
 
