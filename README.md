@@ -16,6 +16,10 @@ Select `Preferences: Settings` in the command palette and set:
 }
 ```
 
+Available icon themes: `Flow Dawn`, `Flow Deep`, `Flow Dim`, `Flow You` and the
+light variants `Flow Dawn (Light)`, `Flow Deep (Light)`, `Flow Dim (Light)`,
+`Flow You (Light)` — set `"file_icon_theme"` to `<name>.sublime-file-icons`.
+
 Tweak your current theme, so the icons look nice.
 Open the command palette and select `UI: Customize Theme`:
 ```jsonc
@@ -52,6 +56,11 @@ Open the command palette and select `UI: Customize Theme`:
 }
 
 ```
+
+The folder textures above are the `Flow Dawn` set. For any other icon theme,
+prefix the file name with the palette, e.g.
+`file_type_flow_deep_folder_gray.png` or
+`file_type_flow_you_light_folder_gray_open.png`.
 
 ## 💝 Thanks to
 

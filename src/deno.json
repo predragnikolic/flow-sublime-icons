@@ -1,5 +1,7 @@
 {
   "tasks": {
+    "build-light": "deno run --allow-read --allow-write --allow-ffi build-light.ts",
+    "build-dark": "deno run --allow-read --allow-write --allow-ffi build-dark.ts",
     "build-sublime": "deno run --allow-read --allow-write build-sublime.ts",
     "convert-svg-to-png": "deno run --allow-read --allow-write svg-to-png.ts"
   }
